@@ -7,3 +7,4 @@ function happyHolidays(){
 function happyHolidaysTo(String){
   
   return 'Happy holidays, ${name}!'
+}
