@@ -1,5 +1,5 @@
 // write your code below!
-function sayHiToGrandma(string){
+function happyHolidays(string){
 
   if (string === string.toLowerCase()){
     return "I can't hear you!"
